@@ -33,6 +33,7 @@
 | Quilt                  | 🚧 开发中 | 计划支持1.16+版本   | NDP-Quilt                                                            |
 | Velocity               | ✅ 稳定支持 | 代理层封禁支持       | [NDP-Plugin](https://github.com/No-Danger-Player-Project/NDP-Plugin) |
 | BungeeCord / Waterfall | ✅ 稳定支持 | 与Velocity同步开发 | [NDP-Plugin](https://github.com/No-Danger-Player-Project/NDP-Plugin) |
+| MCDReforged | ✅ 稳定支持 | 支持MCDR 2.0+版本  | [NDP-MCDR](https://github.com/No-Danger-Player-Project/NDP-MCDR) |
 
 ---
 
